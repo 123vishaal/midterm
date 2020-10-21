@@ -1,3 +1,20 @@
 body {
+    background-color: #cbaf87;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+
+}
+.top {
+    text-align: center;
+    color: #30475e;
+}
+.pagetop {background-color:#7e8a97;}
+
+.back {
     background-color: #e7dec8;
 }
