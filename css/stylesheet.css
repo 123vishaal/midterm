@@ -9,12 +9,41 @@ h1 {
     font-family: 'Roboto', sans-serif;
 
 }
+h2 {
+    font-family: 'Roboto', sans-serif;
+
+}
+h3 {
+    font-family: 'Roboto', sans-serif;
+
+}
 .top {
     text-align: center;
     color: #30475e;
 }
-.pagetop {background-color:#7e8a97;}
+.pagetop {
+    background-color:#7e8a97;
+    position: sticky;
+    top: 0;
+}
 
 .back {
     background-color: #e7dec8;
 }
+h2 {
+    text-align: center;
+}
+.pizza {
+    float: left;
+    padding: 10px;
+}
+.left {
+    text-align: left;
+}
+a:link {
+    color: rgb(31,183,221);
+}
+a:visited {
+    color: silver;
+}
+.teal{color: teal;}
